@@ -3,8 +3,8 @@
 ## Progress
 - [x] face detector
 - [x] hand detector
-- [] gesture detector
-- [] gaze detector
+- [ ] gesture detector
+- [ ] gaze detector
 
 ## Requirement
 
